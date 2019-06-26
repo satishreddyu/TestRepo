@@ -1,13 +1,23 @@
-{
-	"data": [{
-			"title": "Pricing Plan",
-			"text": "sample text"
 
-		},
+[
+  {
+    "title": "Pricing Plan",
+    "text": "sample text",
 
-		{
-			"title": "How to Apply",
-			"text": "sample text"
-		}
-	]
-}
+    
+  },
+	 {
+    "title": "Pricing Plan",
+    "text": "sample text",
+
+    
+  },
+	 {
+    "title": "Pricing Plan",
+    "text": "sample text",
+
+    
+  },
+ 
+
+]
