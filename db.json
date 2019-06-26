@@ -1,21 +1,14 @@
-[{
-		"title": "Pricing Plan",
-		"text": "sample text"
-
-
-	},
-	{
-		"title": "Pricing Plan",
-		"text": "sample text"
-
-
-	},
-	{
-		"title": "Pricing Plan",
-		"text": "sample text"
-
-
-	}
-
-
+[  
+   {  
+      "title":"Pricing Plan",
+      "text":"sample text"
+   },
+   {  
+      "title":"Pricing Plan",
+      "text":"sample text"
+   },
+   {  
+      "title":"Pricing Plan",
+      "text":"sample text"
+   }
 ]
