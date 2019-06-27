@@ -1,23 +1,22 @@
 
 {
-	"data": [{  
-      "title":"Login Issues and Recovery Issues",
-      "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet natus sint provident vel ab reprehenderit cum soluta, suscipit facere nisi sed earum repellendus fuga debitis, nam molestiae minima voluptates possimus"
-   },
-   {  
-      "title":"Password Issues",
-      "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet natus sint provident vel ab reprehenderit cum soluta, suscipit facere nisi sed earum repellendus fuga debitis, nam molestiae minima voluptates possimus"
-   },
-   {  
-      "title":"Contact Support",
-      "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet natus sint provident vel ab reprehenderit cum soluta, suscipit facere nisi sed earum repellendus fuga debitis, nam molestiae minima voluptates possimus"
-   },
-		 {  
-      "title":"Other Issues",
-      "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet natus sint provident vel ab reprehenderit cum soluta, suscipit facere nisi sed earum repellendus fuga debitis, nam molestiae minima voluptates possimus"
-   }
-		 
-		 
+"data": [
+	   {  
+	      "title":"Login Issues and Recovery Issues",
+	      "text":"Sample content which needs to be placed and can be easily modified by modifying JSON without entering into the code part"
+	   },
+	   {  
+	      "title":"Password Issues",
+	     "text":"Sample content which needs to be placed and can be easily modified by modifying JSON without entering into the code part"
+	   },
+	   {  
+	      "title":"Contact Support",
+	      "text":"Sample content which needs to be placed and can be easily modified by modifying JSON without entering into the code part"
+	   },
+	   {  
+	      "title":"Other Issues",
+	      "text":"Sample content which needs to be placed and can be easily modified by modifying JSON without entering into the code part"
+	   }
 		 
 	]
 }
